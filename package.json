@@ -38,5 +38,6 @@
     "source-map-loader": "^1.0.1",
     "typescript": "^3.9.7",
     "webpack-cli": "^3.3.12"
-  }
+  },
+  "homepage": "./"
 }
