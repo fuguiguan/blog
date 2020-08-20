@@ -3,9 +3,10 @@ import * as ReactDOM from "react-dom";
 
 import { Hello } from "./components/Hello";
 import { Avatar } from "./components/avatar/Avatar";
+import { Home } from "./views/home/home";
 
 ReactDOM.render(
     // <Hello compiler="TypeScript" framework="React" />,
-    <Avatar  url="https://via.placeholder.com/150/771796" name="那个少年"/>,
+    <Home />,
     document.getElementById("root")
 );
